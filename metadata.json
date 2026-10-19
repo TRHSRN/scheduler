@@ -1,0 +1,6 @@
+{
+  "name": "Dayflow",
+  "description": "Dayflow - 생산성과 딥워크를 위한 올인원 대시보드, 타임블록 스케줄러, 투두 관리 및 월간 목표 분석 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
